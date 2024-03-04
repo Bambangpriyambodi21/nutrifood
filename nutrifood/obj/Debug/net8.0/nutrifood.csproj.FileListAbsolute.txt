@@ -1,0 +1,14 @@
+C:\Users\1V4\source\repos\nutrifood\nutrifood\bin\Debug\net8.0\nutrifood.exe
+C:\Users\1V4\source\repos\nutrifood\nutrifood\bin\Debug\net8.0\nutrifood.deps.json
+C:\Users\1V4\source\repos\nutrifood\nutrifood\bin\Debug\net8.0\nutrifood.runtimeconfig.json
+C:\Users\1V4\source\repos\nutrifood\nutrifood\bin\Debug\net8.0\nutrifood.dll
+C:\Users\1V4\source\repos\nutrifood\nutrifood\bin\Debug\net8.0\nutrifood.pdb
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.AssemblyInfoInputs.cache
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.AssemblyInfo.cs
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.csproj.CoreCompileInputs.cache
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.dll
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\refint\nutrifood.dll
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.pdb
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.genruntimeconfig.cache
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\ref\nutrifood.dll
