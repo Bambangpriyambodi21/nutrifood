@@ -56,8 +56,25 @@ internal class Program
         Console.WriteLine("Masukkan Kata: ");
         String kata = Console.ReadLine();
 
+        int[] hitung = new int[256];
+        int max = 0;
+        Char hasil = Char.MinValue;
 
-        Console.WriteLine(kata[2]);
+        Array.Clear(hitung, 0, hitung.Length - 1);
+
+        foreach (Char i in kata)
+        {
+            if (++hitung[i] > max)
+            {
+                max = hitung[i];
+                hasil = i;
+            }
+        }
+
+        Console.WriteLine("Kata Terbanyak adalah : ");
+
+        Console.WriteLine(hasil);
+
     }
 
     private static void Main(string[] args)

@@ -12,3 +12,4 @@ C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\refint\nutrifood.
 C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.pdb
 C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.genruntimeconfig.cache
 C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\ref\nutrifood.dll
+C:\Users\1V4\source\repos\nutrifood\nutrifood\obj\Debug\net8.0\nutrifood.sourcelink.json
