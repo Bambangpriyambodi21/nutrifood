@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nutrifood")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c8619707fd49af4f5cfad623c63936ddc2bde2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79f4457404e2baee924699243e40ba78ffdc5c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("nutrifood")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nutrifood")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
